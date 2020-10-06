@@ -1,0 +1,28 @@
+---
+layout: post
+title:  "Curiosidades sobre pinguins"
+date:   2020-10-05 22:37:45 -0300
+categories: Pinguim
+---
+<!-- <img src ="{{ ’/assets/imagens/pinguipequeno.jpg' | relative_url }}"> -->
+<!-- <img src ="{{ '/assets/imagens/pinguipequeno.jpg' | relative_url}}"> -->
+<img src ="{{ '/assets/imagens/ping1.png' | relative_url}}">
+
+<h1>Curiosidades Sobre Pinguins</h1>
+<ol>
+                <li > Os pinguins são animais ovíparos e se alimentam basicamente de peixes, lulas, crustáceos, krill, camarões, dentre outros; </li >
+                <li > O tempo médio de vida dos pinguins costuma ser de 30 anos;  </li >
+                <li >Costumam andar em colônias (grupos) para evitar a ação de predadores; </li >
+                <li > Durante a mudança das penas, que ocorre duas vezes por ano, os pinguins não entram na água; </li >
+                <br>
+                <li>Eles podem atingir uma velocidade de até 45 km/h nadando;</li>
+                <li>Possuem as pernas mais para trás do que as outras aves, o que faz com que eles tenham um andar mais desajeitado</li>
+                <li>Eles podem atingir uma velocidade de até 45 km/h nadando;</li>
+
+            </ol >
+
+
+Texto extraído de: https://www.educamaisbrasil.com.br/enem/biologia/pinguim
+
+Para aprender mais sobre pinguins acesse: 
+<p><a href="https://www.educamaisbrasil.com.br/enem/biologia/pinguim"> https://www.educamaisbrasil.com.br/enem/biologia/pinguim</a></p>
