@@ -1,0 +1,49 @@
+
+:root {
+    font-size: 16 px;
+}
+body{
+    color:rgb(247, 247, 247);
+    background-color:rgb(106, 150, 190);
+    text-align: left;
+}
+
+aside{
+    color: rgb(199, 188, 188);
+}
+
+.footer{
+    text-align: left;
+    display : grid ;
+    min-height: 1vh;
+    min-width: 2rem;
+    margin: 2rem 3rem;
+    border: 0.1rem solid black;
+    justify-content: center;
+}
+
+.Motivo{
+    // margin: 100px calc(25% - 100px) 100px calc(50% - 50px);
+    // border: 1px solid black;    
+    // justify-content: center;
+    // align-self: auto;
+    display : grid ;
+    min-height: 2rem;
+    min-width: 2rem;
+    margin: 2rem 2rem;
+    border: 0.1rem solid black;
+    justify-content: center;
+}
+
+.foto{
+    display : grid ;
+    min-height: 1vh;
+    min-width: 2rem;
+    margin: 2rem 2rem;
+    border: 0.1rem solid black;
+    justify-content: center;
+    // grid-template-columns : 150 px 100 px;
+    // grid-template-rows : 150 px 150 px;
+    // border: 1px solid black;    
+    // justify-content: space-around;
+}

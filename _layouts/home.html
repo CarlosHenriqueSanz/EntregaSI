@@ -1,0 +1,37 @@
+---
+layout: default
+---
+<article>
+<header class = "titulo"> 
+    <h1 > Entrega 1 - Lab SI 1 </h1 > 
+        <h2 > Ajude a salvar os pinguins </h2 > 
+</header>
+<main>
+    <section class="Motivo">   
+        <h3>Motivos para salvar os pinguins:</h3>   
+            <ol>
+                <li > Motivo 1 </li >
+                <li > Motivo 2 </li >
+                <li > Motivo 3 </li >
+                <li > Motivo 4 </li >
+                <br>
+            </ol >
+    </section>
+
+    <header>
+        <section class="foto">
+        <img src ="/assets/imagens/pinguin.jpeg" | relative_url. >
+        </section>
+    </header >
+
+        Textos sobre os pinguins:
+        {% for post in site . posts %}
+        <li ><a href ="{{ post .url | relative_url }} ">{{ post . title }} </a></li >
+        {% endfor %} 
+
+
+    <section class = "footer">  Carlos Henrique Sanz  <br> Nusp 10773082  </section>
+
+</main>
+
+</article>
